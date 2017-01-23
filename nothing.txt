@@ -1,3 +1,7 @@
 python is not easy
 
+<<<<<<< HEAD
 back
+=======
+git git git
+>>>>>>> change nothing2
